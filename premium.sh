@@ -91,7 +91,7 @@ gem install lolcat
 apt install wondershaper -y
 clear
 # REPO    
-    REPO="https://raw.githubusercontent.com/savagetech56/premium/main/"
+    REPO="https://raw.githubusercontent.com/Mahboub-power-is-back/multike/main/"
 
 ####
 start=$(date +%s)
